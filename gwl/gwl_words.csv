@@ -1,0 +1,470 @@
+id,word,debate,count_bachelet,count_espinosa,count_grossi,count_grynspan,count_sall
+1,think,gwl,21,19,0,20,0
+2,need,gwl,27,14,0,12,0
+3,it's,gwl,21,19,0,8,0
+4,human,gwl,11,16,0,9,0
+5,general,gwl,12,13,0,8,3
+6,secretary,gwl,12,12,0,8,3
+7,rights,gwl,11,14,0,8,0
+8,development,gwl,12,10,0,6,2
+9,people,gwl,17,5,0,8,0
+10,countries,gwl,8,5,0,13,0
+11,say,gwl,10,8,0,4,0
+12,important,gwl,7,6,0,9,0
+13,really,gwl,11,5,0,5,0
+14,don't,gwl,10,2,0,7,0
+15,work,gwl,12,6,0,0,0
+16,bring,gwl,4,8,0,4,2
+17,ensure,gwl,12,6,0,0,0
+18,climate,gwl,5,7,0,6,0
+19,course,gwl,9,9,0,0,0
+20,know,gwl,4,3,0,10,0
+21,i'm,gwl,10,4,0,0,2
+22,world,gwl,3,5,0,8,0
+23,that's,gwl,9,4,0,3,0
+24,future,gwl,5,6,0,4,0
+25,trust,gwl,2,4,0,6,3
+26,try,gwl,6,0,0,8,0
+27,mean,gwl,12,2,0,0,0
+28,believe,gwl,8,4,0,2,0
+29,things,gwl,11,0,0,2,0
+30,issue,gwl,2,11,0,0,0
+31,come,gwl,5,5,0,2,0
+32,change,gwl,6,0,0,6,0
+33,early,gwl,3,5,0,4,0
+34,needs,gwl,8,4,0,0,0
+35,role,gwl,6,6,0,0,0
+36,dialogue,gwl,6,3,0,0,2
+37,peace,gwl,5,2,0,4,0
+38,make,gwl,2,2,0,4,3
+39,said,gwl,5,2,0,4,0
+40,yes,gwl,4,0,0,6,0
+41,member,gwl,5,5,0,0,0
+42,today,gwl,2,3,0,5,0
+43,ai,gwl,5,2,0,3,0
+44,lot,gwl,7,0,0,3,0
+45,states,gwl,4,5,0,0,0
+46,security,gwl,5,2,0,2,0
+47,question,gwl,0,5,0,4,0
+48,young,gwl,2,5,0,2,0
+49,agree,gwl,4,3,0,2,0
+50,warning,gwl,3,2,0,4,0
+51,multilateral,gwl,2,3,0,4,0
+52,good,gwl,3,3,0,3,0
+53,thing,gwl,5,0,0,4,0
+54,difficult,gwl,0,6,0,2,0
+55,want,gwl,4,2,0,2,0
+56,listen,gwl,0,2,0,4,2
+57,place,gwl,5,3,0,0,0
+58,right,gwl,0,4,0,4,0
+59,lives,gwl,3,5,0,0,0
+60,science,gwl,4,4,0,0,0
+61,international,gwl,2,2,0,4,0
+62,thank,gwl,0,5,0,3,0
+63,country,gwl,2,0,0,5,0
+64,able,gwl,0,0,0,7,0
+65,use,gwl,2,5,0,0,0
+66,understand,gwl,2,3,0,2,0
+67,hand,gwl,5,2,0,0,0
+68,multilateralism,gwl,4,0,0,3,0
+69,principles,gwl,3,0,0,4,0
+70,better,gwl,3,0,0,2,2
+71,table,gwl,5,2,0,0,0
+72,speak,gwl,4,3,0,0,0
+73,there's,gwl,7,0,0,0,0
+74,we're,gwl,6,0,0,0,0
+75,having,gwl,3,3,0,0,0
+76,mentioned,gwl,4,0,0,2,0
+77,law,gwl,0,0,0,6,0
+78,areas,gwl,3,0,0,3,0
+79,different,gwl,6,0,0,0,0
+80,doesn't,gwl,6,0,0,0,0
+81,let,gwl,2,0,0,4,0
+82,running,gwl,2,0,0,2,2
+83,women,gwl,6,0,0,0,0
+84,united,gwl,4,0,0,0,2
+85,sector,gwl,3,3,0,0,0
+86,second,gwl,0,0,0,6,0
+87,example,gwl,4,0,0,2,0
+88,times,gwl,3,0,0,3,0
+89,nations,gwl,4,0,0,0,2
+90,discussion,gwl,0,2,0,3,0
+91,won't,gwl,2,0,0,3,0
+92,intelligence,gwl,0,5,0,0,0
+93,true,gwl,2,0,0,3,0
+94,debt,gwl,2,0,0,3,0
+95,moment,gwl,2,3,0,0,0
+96,space,gwl,0,5,0,0,0
+97,build,gwl,3,0,0,2,0
+98,absolutely,gwl,0,5,0,0,0
+99,created,gwl,2,3,0,0,0
+100,prevention,gwl,0,5,0,0,0
+101,best,gwl,0,2,0,3,0
+102,respect,gwl,2,0,0,3,0
+103,problem,gwl,3,0,0,2,0
+104,private,gwl,0,3,0,2,0
+105,effective,gwl,0,0,0,5,0
+106,worked,gwl,2,0,0,3,0
+107,years,gwl,0,3,0,2,0
+108,finance,gwl,2,0,0,3,0
+109,allow,gwl,0,0,0,4,0
+110,challenges,gwl,4,0,0,0,0
+111,committee,gwl,0,0,0,4,0
+112,worried,gwl,0,2,0,2,0
+113,humanitarian,gwl,0,0,0,4,0
+114,ground,gwl,0,2,0,2,0
+115,happening,gwl,4,0,0,0,0
+116,time,gwl,2,2,0,0,0
+117,easy,gwl,0,4,0,0,0
+118,sdgs,gwl,0,0,0,4,0
+119,transformation,gwl,0,4,0,0,0
+120,action,gwl,0,4,0,0,0
+121,happen,gwl,0,0,0,4,0
+122,commissioner,gwl,4,0,0,0,0
+123,they're,gwl,4,0,0,0,0
+124,results,gwl,4,0,0,0,0
+125,crisis,gwl,0,4,0,0,0
+126,goals,gwl,4,0,0,0,0
+127,money,gwl,2,2,0,0,0
+128,means,gwl,2,2,0,0,0
+129,discuss,gwl,0,2,0,2,0
+130,trying,gwl,2,0,0,2,0
+131,going,gwl,4,0,0,0,0
+132,conversation,gwl,0,2,0,2,0
+133,woman,gwl,0,4,0,0,0
+134,charter,gwl,0,4,0,0,0
+135,companies,gwl,4,0,0,0,0
+136,partner,gwl,0,0,0,4,0
+137,generations,gwl,0,4,0,0,0
+138,institutions,gwl,4,0,0,0,0
+139,capacity,gwl,2,2,0,0,0
+140,younger,gwl,0,4,0,0,0
+141,national,gwl,0,0,0,4,0
+142,indicators,gwl,0,0,0,4,0
+143,saw,gwl,0,4,0,0,0
+144,vision,gwl,0,4,0,0,0
+145,high,gwl,4,0,0,0,0
+146,skepticism,gwl,0,0,0,4,0
+147,funded,gwl,2,2,0,0,0
+148,scientific,gwl,0,0,0,4,0
+149,choice,gwl,0,0,0,4,0
+150,needed,gwl,4,0,0,0,0
+151,team,gwl,0,2,0,2,0
+152,real,gwl,0,0,0,4,0
+153,beginning,gwl,2,0,0,2,0
+154,owned,gwl,2,2,0,0,0
+155,group,gwl,2,0,0,2,0
+156,giving,gwl,2,2,0,0,0
+157,michelle,gwl,2,0,0,2,0
+158,play,gwl,4,0,0,0,0
+159,act,gwl,0,4,0,0,0
+160,institution,gwl,4,0,0,0,0
+161,banks,gwl,0,2,0,2,0
+162,does,gwl,0,4,0,0,0
+163,point,gwl,0,0,0,4,0
+164,artificial,gwl,0,4,0,0,0
+165,extremely,gwl,0,4,0,0,0
+166,everybody,gwl,2,2,0,0,0
+167,ambition,gwl,0,3,0,0,0
+168,rebecca,gwl,3,0,0,0,0
+169,agenda,gwl,0,0,0,3,0
+170,sense,gwl,3,0,0,0,0
+171,communities,gwl,3,0,0,0,0
+172,i've,gwl,3,0,0,0,0
+173,big,gwl,3,0,0,0,0
+174,afraid,gwl,3,0,0,0,0
+175,delivery,gwl,0,3,0,0,0
+176,present,gwl,0,3,0,0,0
+177,funds,gwl,0,0,0,3,0
+178,purpose,gwl,0,3,0,0,0
+179,peoples,gwl,0,3,0,0,0
+180,master,gwl,0,3,0,0,0
+181,bachelet,gwl,3,0,0,0,0
+182,state,gwl,3,0,0,0,0
+183,improve,gwl,3,0,0,0,0
+184,unique,gwl,0,0,0,3,0
+185,information,gwl,0,0,0,3,0
+186,failing,gwl,3,0,0,0,0
+187,193,gwl,3,0,0,0,0
+188,level,gwl,0,0,0,3,0
+189,independent,gwl,3,0,0,0,0
+190,voice,gwl,0,0,0,3,0
+191,year,gwl,3,0,0,0,0
+192,issues,gwl,3,0,0,0,0
+193,sit,gwl,3,0,0,0,0
+194,architecture,gwl,0,3,0,0,0
+195,new,gwl,0,3,0,0,0
+196,tools,gwl,3,0,0,0,0
+197,places,gwl,3,0,0,0,0
+198,community,gwl,0,0,0,3,0
+199,resources,gwl,3,0,0,0,0
+200,ones,gwl,0,0,0,3,0
+201,drive,gwl,0,0,0,3,0
+202,invest,gwl,0,0,0,3,0
+203,live,gwl,0,0,0,3,0
+204,children,gwl,3,0,0,0,0
+205,adaptation,gwl,0,0,0,3,0
+206,complex,gwl,0,3,0,0,0
+207,tell,gwl,0,0,0,3,0
+208,hub,gwl,0,3,0,0,0
+209,transform,gwl,0,3,0,0,0
+210,produce,gwl,3,0,0,0,0
+211,ask,gwl,0,0,0,3,0
+212,dignity,gwl,0,3,0,0,0
+213,impact,gwl,0,3,0,0,0
+214,multipolarity,gwl,0,0,0,3,0
+215,idea,gwl,0,0,0,3,0
+216,president,gwl,3,0,0,0,0
+217,serve,gwl,0,3,0,0,0
+218,start,gwl,0,0,0,3,0
+219,shocks,gwl,0,2,0,0,0
+220,called,gwl,0,2,0,0,0
+221,possible,gwl,2,0,0,0,0
+222,leadership,gwl,0,2,0,0,0
+223,saying,gwl,0,2,0,0,0
+224,political,gwl,0,2,0,0,0
+225,july,gwl,0,2,0,0,0
+226,capacities,gwl,0,0,0,2,0
+227,lead,gwl,0,2,0,0,0
+228,failure,gwl,0,0,0,2,0
+229,cost,gwl,0,0,0,2,0
+230,probably,gwl,2,0,0,0,0
+231,trusted,gwl,0,2,0,0,0
+232,built,gwl,0,2,0,0,0
+233,active,gwl,0,2,0,0,0
+234,anybody,gwl,0,0,0,2,0
+235,advice,gwl,0,2,0,0,0
+236,investment,gwl,0,0,0,2,0
+237,members,gwl,2,0,0,0,0
+238,maria,gwl,0,0,0,2,0
+239,hunger,gwl,0,0,0,2,0
+240,1945,gwl,0,0,0,2,0
+241,loss,gwl,2,0,0,0,0
+242,given,gwl,2,0,0,0,0
+243,bonjour,gwl,0,2,0,0,0
+244,clear,gwl,2,0,0,0,0
+245,african,gwl,2,0,0,0,0
+246,strongly,gwl,0,2,0,0,0
+247,wouldn't,gwl,2,0,0,0,0
+248,multipolar,gwl,0,0,0,2,0
+249,moderator,gwl,2,0,0,0,0
+250,council,gwl,0,2,0,0,0
+251,politicization,gwl,0,0,0,2,0
+252,requires,gwl,0,2,0,0,0
+253,brings,gwl,0,2,0,0,0
+254,centre,gwl,0,2,0,0,0
+255,secretariat,gwl,2,0,0,0,0
+256,farther,gwl,0,0,0,2,0
+257,decision,gwl,0,2,0,0,0
+258,sign,gwl,2,0,0,0,0
+259,bank,gwl,2,0,0,0,0
+260,area,gwl,2,0,0,0,0
+261,identify,gwl,2,0,0,0,0
+262,looking,gwl,2,0,0,0,0
+263,fail,gwl,2,0,0,0,0
+264,feel,gwl,2,0,0,0,0
+265,interdependence,gwl,0,2,0,0,0
+266,talk,gwl,0,0,0,2,0
+267,great,gwl,2,0,0,0,0
+268,learn,gwl,0,0,0,2,0
+269,prevent,gwl,2,0,0,0,0
+270,usually,gwl,2,0,0,0,0
+271,4,gwl,2,0,0,0,0
+272,covid,gwl,0,0,0,2,0
+273,driven,gwl,0,0,0,2,0
+274,listening,gwl,2,0,0,0,0
+275,fought,gwl,0,0,0,2,0
+276,era,gwl,0,2,0,0,0
+277,risk,gwl,0,0,0,2,0
+278,talking,gwl,2,0,0,0,0
+279,service,gwl,2,0,0,0,0
+280,town,gwl,0,2,0,0,0
+281,reform,gwl,2,0,0,0,0
+282,defend,gwl,2,0,0,0,0
+283,affected,gwl,2,0,0,0,0
+284,working,gwl,2,0,0,0,0
+285,clinic,gwl,2,0,0,0,0
+286,paris,gwl,2,0,0,0,0
+287,machinery,gwl,2,0,0,0,0
+288,exactly,gwl,0,2,0,0,0
+289,ability,gwl,0,2,0,0,0
+290,jobs,gwl,0,2,0,0,0
+291,objectives,gwl,0,0,0,2,0
+292,english,gwl,0,2,0,0,0
+293,step,gwl,2,0,0,0,0
+294,york,gwl,0,2,0,0,0
+295,slogan,gwl,0,2,0,0,0
+296,office,gwl,2,0,0,0,0
+297,remember,gwl,0,0,0,2,0
+298,shared,gwl,0,2,0,0,0
+299,taking,gwl,0,2,0,0,0
+300,matter,gwl,2,0,0,0,0
+301,power,gwl,0,2,0,0,0
+302,policies,gwl,0,0,0,2,0
+303,strong,gwl,0,2,0,0,0
+304,perfect,gwl,2,0,0,0,0
+305,agents,gwl,0,2,0,0,0
+306,innovation,gwl,0,2,0,0,0
+307,pillars,gwl,0,2,0,0,0
+308,push,gwl,0,0,0,2,0
+309,capable,gwl,0,2,0,0,0
+310,tool,gwl,0,2,0,0,0
+311,bureaucratic,gwl,0,0,0,2,0
+312,earn,gwl,0,2,0,0,0
+313,et,gwl,2,0,0,0,0
+314,solutions,gwl,0,2,0,0,0
+315,loans,gwl,2,0,0,0,0
+316,peacemaker,gwl,0,2,0,0,0
+317,read,gwl,2,0,0,0,0
+318,annan,gwl,0,0,0,2,0
+319,lack,gwl,0,2,0,0,0
+320,small,gwl,0,0,0,2,0
+321,person,gwl,0,0,0,2,0
+322,frustration,gwl,0,2,0,0,0
+323,economic,gwl,0,2,0,0,0
+324,realize,gwl,2,0,0,0,0
+325,360,gwl,0,2,0,0,0
+326,digital,gwl,0,0,0,2,0
+327,signs,gwl,2,0,0,0,0
+328,invisible,gwl,0,0,0,2,0
+329,humanism,gwl,2,0,0,0,0
+330,greenspan,gwl,2,0,0,0,0
+331,game,gwl,0,2,0,0,0
+332,31,gwl,0,2,0,0,0
+333,answer,gwl,2,0,0,0,0
+334,laws,gwl,0,0,0,2,0
+335,aspiration,gwl,2,0,0,0,0
+336,cetera,gwl,2,0,0,0,0
+337,life,gwl,2,0,0,0,0
+338,multiplying,gwl,0,2,0,0,0
+339,conflict,gwl,0,2,0,0,0
+340,agreement,gwl,2,0,0,0,0
+341,coup,gwl,2,0,0,0,0
+342,promises,gwl,2,0,0,0,0
+343,somebody,gwl,2,0,0,0,0
+344,comes,gwl,0,0,0,2,0
+345,potential,gwl,0,2,0,0,0
+346,silence,gwl,2,0,0,0,0
+347,duplication,gwl,0,2,0,0,0
+348,properly,gwl,0,0,0,2,0
+349,okay,gwl,0,0,0,2,0
+350,perspective,gwl,2,0,0,0,0
+351,technology,gwl,0,2,0,0,0
+352,rica,gwl,0,0,0,2,0
+353,process,gwl,0,0,0,2,0
+354,away,gwl,0,0,0,2,0
+355,d'etat,gwl,2,0,0,0,0
+356,receive,gwl,2,0,0,0,0
+357,conflicts,gwl,0,0,0,2,0
+358,especially,gwl,0,2,0,0,0
+359,hundreds,gwl,2,0,0,0,0
+360,fatalism,gwl,0,0,0,2,0
+361,wealth,gwl,2,0,0,0,0
+362,global,gwl,0,2,0,0,0
+363,sitting,gwl,2,0,0,0,0
+364,advisory,gwl,0,0,0,2,0
+365,energy,gwl,0,2,0,0,0
+366,geneva,gwl,0,2,0,0,0
+367,30,gwl,0,2,0,0,0
+368,outside,gwl,0,0,0,2,0
+369,urgency,gwl,2,0,0,0,0
+370,precisely,gwl,0,0,0,2,0
+371,financing,gwl,2,0,0,0,0
+372,inside,gwl,0,0,0,2,0
+373,endorsement,gwl,2,0,0,0,0
+374,package,gwl,0,2,0,0,0
+375,governments,gwl,2,0,0,0,0
+376,nationally,gwl,0,2,0,0,0
+377,way,gwl,2,0,0,0,0
+378,people's,gwl,0,2,0,0,0
+379,leader,gwl,0,0,0,2,0
+380,inform,gwl,0,2,0,0,0
+381,french,gwl,0,2,0,0,0
+382,war,gwl,0,0,0,2,0
+383,making,gwl,0,2,0,0,0
+384,help,gwl,0,2,0,0,0
+385,essential,gwl,2,0,0,0,0
+386,facilitate,gwl,2,0,0,0,0
+387,environmental,gwl,0,0,0,2,0
+388,let's,gwl,0,0,0,2,0
+389,percent,gwl,0,0,0,2,0
+390,criticized,gwl,2,0,0,0,0
+391,services,gwl,0,0,0,2,0
+392,2,gwl,0,0,0,2,0
+393,comply,gwl,0,0,0,2,0
+394,assume,gwl,0,0,0,2,0
+395,continue,gwl,0,2,0,0,0
+396,deal,gwl,2,0,0,0,0
+397,colleagues,gwl,0,2,0,0,0
+398,choose,gwl,0,0,0,2,0
+399,honoured,gwl,2,0,0,0,0
+400,started,gwl,0,0,0,2,0
+401,costa,gwl,0,0,0,2,0
+402,doing,gwl,2,0,0,0,0
+403,commitment,gwl,2,0,0,0,0
+404,kofi,gwl,0,0,0,2,0
+405,credibility,gwl,0,2,0,0,0
+406,universal,gwl,0,2,0,0,0
+407,parties,gwl,0,2,0,0,0
+408,culture,gwl,0,0,0,2,0
+409,did,gwl,0,0,0,2,0
+1,secretary general,gwl,11,12,0,8,3
+2,human rights,gwl,10,12,0,8,0
+3,member states,gwl,4,5,0,0,0
+4,early warning,gwl,3,2,0,4,0
+5,young people,gwl,2,4,0,2,0
+6,climate change,gwl,4,0,0,3,0
+7,united nations,gwl,4,0,0,0,2
+8,doesn't mean,gwl,4,0,0,0,0
+9,humanitarian law,gwl,0,0,0,4,0
+10,extremely important,gwl,0,4,0,0,0
+11,artificial intelligence,gwl,0,4,0,0,0
+12,younger generations,gwl,0,3,0,0,0
+13,early action,gwl,0,3,0,0,0
+14,193 member,gwl,3,0,0,0,0
+15,really important,gwl,3,0,0,0,0
+16,high commissioner,gwl,3,0,0,0,0
+17,private sector,gwl,0,3,0,0,0
+18,doesn't mean endorsement,gwl,2,0,0,0,0
+19,climate shocks,gwl,0,2,0,0,0
+20,multilateral space,gwl,0,2,0,0,0
+21,difficult areas,gwl,0,0,0,2,0
+22,we're failing,gwl,2,0,0,0,0
+23,early action hub,gwl,0,2,0,0,0
+24,michelle bachelet,gwl,2,0,0,0,0
+25,rights architecture,gwl,0,2,0,0,0
+26,scientific community,gwl,0,0,0,2,0
+27,rights council,gwl,0,2,0,0,0
+28,warning signs,gwl,2,0,0,0,0
+29,scientific committee,gwl,0,0,0,2,0
+30,international law,gwl,0,0,0,2,0
+31,multilateral development banks,gwl,0,0,0,2,0
+32,security issue,gwl,0,2,0,0,0
+33,general capable,gwl,0,2,0,0,0
+34,et cetera,gwl,2,0,0,0,0
+35,right policies,gwl,0,0,0,2,0
+36,multilateral development,gwl,0,0,0,2,0
+37,costa rica,gwl,0,0,0,2,0
+38,advisory committee,gwl,0,0,0,2,0
+39,really need,gwl,0,2,0,0,0
+40,human dignity,gwl,0,2,0,0,0
+41,national level,gwl,0,0,0,2,0
+42,people's lives,gwl,0,2,0,0,0
+43,193 member states,gwl,2,0,0,0,0
+44,kofi annan,gwl,0,0,0,2,0
+45,human rights council,gwl,0,2,0,0,0
+46,secretary general capable,gwl,0,2,0,0,0
+47,development banks,gwl,0,0,0,2,0
+48,best team,gwl,0,0,0,2,0
+49,rebecca greenspan,gwl,2,0,0,0,0
+50,results needed,gwl,2,0,0,0,0
+51,mean endorsement,gwl,2,0,0,0,0
+52,new york,gwl,0,2,0,0,0
+53,nationally owned,gwl,0,2,0,0,0
+54,really believe,gwl,2,0,0,0,0
+55,people want,gwl,2,0,0,0,0
+56,coup d'etat,gwl,2,0,0,0,0
+57,decision making,gwl,0,2,0,0,0
+58,early warning signs,gwl,2,0,0,0,0
+59,human rights architecture,gwl,0,2,0,0,0
+60,action hub,gwl,0,2,0,0,0

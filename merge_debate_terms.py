@@ -15,18 +15,18 @@ CANDIDATES = [
 
 DEBATES = [
     {
-        "debate": "unauk",
+        "debate": "gwl",
         "words": {
-            "bachelet": "bachelet_words.csv",
-            "espinosa": "espinosa_words.csv",
-            "grossi": "grossi_words.csv",
-            "grynspan": "grynspan_words.csv",
+            "bachelet": "gwl/bachelet_words.csv",
+            "espinosa": "gwl/espinosa_words.csv",
+            "sall": "gwl/sall_words.csv",
+            "grynspan": "gwl/grynspan_words.csv",
         },
         "concepts": {
-            "bachelet": "bachelet_concepts.csv",
-            "espinosa": "espinosa_concepts.csv",
-            "grossi": "grossi_concepts.csv",
-            "grynspan": "grynspan_concepts.csv",
+            "bachelet": "gwl/bachelet_concepts.csv",
+            "espinosa": "gwl/espinosa_concepts.csv",
+            "sall": "gwl/sall_concepts.csv",
+            "grynspan": "gwl/grynspan_concepts.csv",
         },
     },
     # Agregar más debates aquí, por ejemplo:

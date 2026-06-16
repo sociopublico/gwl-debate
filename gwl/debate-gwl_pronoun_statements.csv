@@ -1,0 +1,20 @@
+segment,statement_index,start,end,statement,is_i_statement,is_we_statement,i_pronoun_count,we_pronoun_count
+163,0,1361.813,1365.955,I believe that the international system is fragmented,True,False,1,0
+164,0,1367.148,1369.388,because trust has been weakened,False,False,0,0
+165,0,1370.429,1374.85,"And without trust, multilateralism cannot deliver",False,False,0,0
+166,0,1375.85,1381.891,"If selected Secretary General, I would champion three concrete changes",True,False,1,0
+167,0,1383.051,1389.953,"First, I would work to bring the United Nations back to its member states",True,False,1,0
+168,0,1391.173,1396.234,Reform must be owned by countries large,False,False,0,0
+169,0,1396.838,1399.318,"and small, north and south",False,False,0,0
+170,0,1400.319,1406.04,The UN must listen more and act with more inclusiveness,False,False,0,0
+171,0,1407.92,1426.603,"As Secretary General, I will be a bridge builder, someone able to speak to everyone, listen to everyone, bring positions closer, and maintain dialogue even in times of high tension",True,False,1,0
+172,0,1428.586,1432.327,"Second, I would make the UN more effective on the ground",True,False,1,0
+173,0,1433.587,1444.129,"When they must be rationalized and clear, resources better used and results better measured",False,False,0,0
+174,0,1445.529,1455.731,"Third, while taking care of human rights, I would also make development a central pillar of peace",True,False,1,0
+175,0,1456.852,1458.312,We cannot fight terrorism,False,True,0,1
+176,0,1459.005,1464.608,instability or migration only with security responses,False,False,0,0
+177,0,1466.289,1481.456,"We must win the battle of development by promoting jobs for youth, women, investment, infrastructure, climate justice, and fair access to finance",False,True,0,1
+178,0,1483.017,1486.759,The Secretary General has no army and no police,False,False,0,0
+179,0,1488.027,1496.09,"His true strength is credibility, impartiality, and moral authority",False,False,0,0
+180,0,1497.391,1499.592,I'm not running for a career,True,False,1,0
+181,0,1500.692,1515.258,"I'm running for impact to rebuild trust, restore dialogue, and help make the United Nations a stronger tool of collective action",True,False,1,0

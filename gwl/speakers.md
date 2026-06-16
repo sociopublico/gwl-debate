@@ -1,0 +1,5 @@
+GWL
+SPEAKER_10 Espinosa
+SPEAKER_09 Bachelet
+SPEAKER_11 Grynspan
+SPEAKER_04 Sall

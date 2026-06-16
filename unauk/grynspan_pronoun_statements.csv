@@ -1,0 +1,168 @@
+segment,statement_index,start,end,statement,is_i_statement,is_we_statement,i_pronoun_count,we_pronoun_count
+14,0,71.438,74.359,Can I do this so I don't give you my back,True,False,3,0
+15,0,74.479,75.539,I can see all of you,True,False,1,0
+16,0,75.779,77.319,Is that okay with you,False,False,0,0
+17,0,77.499,77.719,Yes,False,False,0,0
+18,0,78.199,78.46,Okay,False,False,0,0
+19,0,79.26,82.3,So why am I running,True,False,1,0
+20,0,82.781,84.201,Yes,False,False,0,0
+21,0,85.401,88.002,I have said that the UN,True,False,1,0
+22,0,88.853,92.596,And the world today is in a difficult moment,False,False,0,0
+23,0,93.377,100.463,"Conflicts are going up, as everybody has said, and they are on the peak since 1945",False,False,0,0
+24,0,101.104,105.708,"Trust in the organization is going down, and time is running out",False,False,0,0
+25,0,106.969,108.75,And I believe in the UN Charter,True,False,1,0
+26,0,109.171,111.733,I believe in the principles of the UN Charter,True,False,1,0
+27,0,112.394,112.914,"I have said,",True,False,1,0
+28,0,114.709,126.315,"the daughter of peace, of two refugees of the Second World War that were able to have a dignified life because they found peace and respect in Costa Rica",False,False,0,0
+29,0,127.436,134.479,And I know what war takes away from you and what peace makes possible,True,False,1,0
+30,0,134.98,140.843,"And that's why I'm running, because this is a consequential moment",True,False,1,0
+31,0,141.603,149.445,"for the international system, for international law, for the UN, and I want to be part of the solution",True,False,1,0
+32,0,149.545,155.367,I want to be the leader of an organization that means so much for so many,True,False,1,0
+33,0,156.947,163.649,"Now, I am defending the UN, but not necessarily I am defending the UN as it is",True,False,2,0
+34,0,164.906,174.07,"The UN has to reform and has to be more agile, more flexible, more nimble in certain ways",False,False,0,0
+35,0,174.67,177.971,It has to learn how to partner with others,False,False,0,0
+36,0,179.152,184.534,"You know, in the UN, we have this mentality that everything has to happen inside the UN",False,True,0,1
+37,0,187.173,194.621,"not only countries have more capacities, but there are regional organizations today that did not exist in 1945",False,False,0,0
+38,0,196.823,206.447,And we need to allow new actors to take a center stage in challenges that the world is facing,False,True,0,1
+39,0,206.987,211.028,"The private sector has more capacities today, civil society",False,False,0,0
+40,0,211.668,224.473,"So it's not only to bring them to the UN, it's for the UN to go to them and be able to support what they do, the things that they can solve, also help us to solve them",False,True,0,1
+41,0,225.253,235.882,And we are too accustomed to compete all the time between us and with the external world to be alone in the centerpiece of everything,False,True,0,2
+42,0,236.703,251.155,And when I say that the UN has to change and I have used a phrase that has been misinterpreted because I have said the UN cannot do more with less because we cannot do that forever,True,True,3,1
+43,0,252.477,254.841,So we need to do less with less,False,True,0,1
+44,0,254.981,260.089,But let me correct that and say we have to be more strategic in what we do,True,True,1,2
+45,0,260.469,264.916,We cannot just add on with less resources all the time,False,True,0,1
+46,0,266.158,268.041,My second point is peace,True,False,1,0
+47,0,269.652,278.514,"And there we have to, you know, I have going around when I step down from the ANTA job to dedicate myself to the campaign",True,True,3,1
+48,0,279.414,282.195,And people ask me the same question,True,False,1,0
+49,0,282.815,284.675,Where is the UN,False,False,0,0
+50,0,285.375,289.576,"You know, in these scenarios of conflict around the world, they don't see us",False,True,0,1
+51,0,290.556,294.917,And it's true that preventive diplomacy is something that you don't see,False,False,0,0
+52,0,295.997,298.818,But it's also true that there are things happening,False,False,0,0
+53,0,299.865,306.856,"in the negotiations, where conflicts are being resolved, where agreements are being forged, and the UN is not there",False,False,0,0
+54,0,307.819,312.182,So my second point is that the UN has to be back at the table,True,False,1,0
+55,0,313.242,317.745,"And for that, the office of the Secretary General has to change",False,False,0,0
+56,0,318.886,325.13,The office has to be structured to have the capacity to support the good offices of the Secretary General,False,False,0,0
+57,0,325.17,332.895,That is the one thing that is clear in the Charter as the task of the Secretary General,False,False,0,0
+58,0,333.715,337.177,And we have to reform ourselves to do that,False,True,0,2
+59,0,337.258,339.819,And I can expand on that if you want,True,False,1,0
+61,0,341.12,344.122,"And third, we need to think about the future",False,True,0,1
+62,0,344.422,346.944,We have to cooperate for the future,False,True,0,1
+63,0,347.404,350.326,Young people are anxious about their jobs,False,False,0,0
+64,0,350.526,352.687,Women are anxious about their rights,False,False,0,0
+65,0,353.368,356.25,So let's have also positive agenda,False,False,0,0
+66,0,356.27,359.472,There are so many good things happening at the same time,False,False,0,0
+67,0,360.152,367.537,"Let's be able to have, you know, a coalition for cooperation for the future that makes sense for everybody",False,False,0,0
+71,0,390.505,394.209,"Well, first of all, I have done a lot of things in my life",True,False,2,0
+74,0,399.434,402.678,I know that for many people this is an impossible job,True,False,1,0
+75,0,402.998,405.02,It has been described that way,False,False,0,0
+76,0,405.06,405.321,Yes,False,False,0,0
+77,0,406.842,409.664,I have had to deal with very difficult situations,True,False,1,0
+78,0,409.764,417.249,"When I started my career in Costa Rica, we were in the last decade of Latin America",True,True,2,1
+79,0,417.349,422.252,"We had defaulted in our debt, and I was in the Ministry of Finance",True,True,1,2
+80,0,423.152,430.698,"And I had to navigate that situation that was with huge constraints, with huge pressures on you",True,False,1,0
+81,0,431.619,447.652,"And I have learned to live under pressure, to take decisions, to take tough decisions, and also to be able to have the team and be the team leader that is necessary for those situations",True,False,1,0
+82,0,448.172,456.074,"So I believe I am experienced, I am confident, I am determined, and I am a good leader",True,False,5,0
+83,0,456.615,460.736,So I can be the secretary and the general at the same time,True,False,1,0
+86,0,468.138,473.98,"Yeah, but you know, there is part of being a secretary that will be very important also this time",False,False,0,0
+87,0,474.512,474.752,Yes,False,False,0,0
+88,0,475.252,477.534,That is your management skills,False,False,0,0
+89,0,478.314,485.438,"If you are going to reform the organization, you have to drive management and not allow management to drive you",False,False,0,0
+104,0,536.507,537.007,Absolutely,False,False,0,0
+105,0,537.528,539.609,"Yeah, I think that they make sense",True,False,1,0
+106,0,540.75,552.133,"If you want a secretary general that is able to bring back trust in the organization, it has to start with integrity and with accountability",False,False,0,0
+107,0,552.353,554.873,And I am absolutely willing to do that,True,False,1,0
+124,0,606.181,612.427,"Well, I said and I repeat that the office of the Secretary General has to be restructured",True,False,2,0
+125,0,613.468,618.893,You cannot do mediation and prevention in a,False,False,0,0
+126,0,619.515,622.496,"pyramidal, bureaucratic structure",False,False,0,0
+127,0,623.076,624.697,Bureaucracies are very important,False,False,0,0
+128,0,624.717,626.278,I come from Costa Rica,True,False,1,0
+129,0,626.958,629.699,"I supported the civil service of my country, yes",True,False,2,0
+130,0,630.88,636.242,But you cannot ask from a bureaucracy to deliver on things they are not,False,False,0,0
+131,0,637.443,638.203,about to do,False,False,0,0
+132,0,639.004,646.809,"And to have flexibility, to be agile, is not part of a bureaucratic structure that is, at the same time, pyramidal",False,False,0,0
+133,0,647.27,655.035,"And that's why, you know, when we were negotiating the Black Sea Initiative, five people worked with me",True,True,1,1
+134,0,655.075,656.056,This was in the Ukraine War,False,False,0,0
+135,0,656.196,657.157,That's for the grain,False,False,0,0
+136,0,657.237,657.657,Exactly,False,False,0,0
+137,0,657.697,665.323,"When we opened up the Black Sea for Trade, that was so important to avoid a food insecurity crisis in the world",False,True,0,1
+138,0,666.247,673.712,"And, you know, I had a very small team, five people that reported only to me, and I reported to the Secretary General",True,False,3,0
+139,0,674.052,674.593,And it worked,False,False,0,0
+140,0,675.053,675.233,Yes,False,False,0,0
+141,0,675.513,679.696,"You know, everything that we wanted to do after that was stopped",False,True,0,1
+142,0,680.577,688.742,"So you need a structure that will be flexible, that will be accountable to the Secretary General, and you need the best team ever",False,False,0,0
+143,0,688.842,692.485,"You know, the Secretary General has to have really robust",False,False,0,0
+144,0,692.985,696.927,and qualified people that are able to take this agenda forward,False,False,0,0
+145,0,697.187,697.487,Good,False,False,0,0
+163,0,758.685,767.15,"Yeah, I know that in the past there was a representation in the Office of the Secretary General of Civil Society that had",True,False,1,0
+164,0,767.707,774.771,that role and that's something to be thought about and restored probably for that to happen,False,False,0,0
+165,0,775.251,788.678,"But also let me say we need to hear civil society and partner with civil society not only because of money, it's not because of financial resources, it's also knowledge and capacities",True,True,1,1
+166,0,789.751,794.413,And that's why I meant that we need to partner much more,True,True,1,1
+170,0,803.036,803.976,Would you establish,False,False,0,0
+171,0,804.076,809.458,I already answered that there was a mechanism in the Office of the Secretary General that could be restored,True,False,1,0
+172,0,809.678,811.139,OK,False,False,0,0
+172,1,809.678,811.139,That's what I said,True,False,1,0
+173,0,811.739,814.28,But I think that civil society also,True,False,1,0
+174,0,815.066,823.228,"I'm sorry to say, should not only think about how they influence the UN inside, but how they bring the UN outside",True,False,1,0
+175,0,823.268,831.771,"They can help with that, not only on the one-sided way in which it has always been thought of",False,False,0,0
+189,0,895.103,912.789,"Well, the main mechanism that we have is the human rights pillar and they have mechanisms to do that and it has to be put forward that that is happening and to ask for the intervention of the human rights commissioner",False,True,0,1
+190,0,913.55,926.798,"And I think that in the protection when civil rights have been abused, the main mechanism that the UN has is the human rights pillar",True,False,1,0
+191,0,929.468,935.471,"and maybe thinking aloud now that we have the question, we haven't explained that around",False,True,0,2
+192,0,935.771,940.534,People don't know what are the mechanisms in the UN that we could use,False,True,0,1
+193,0,941.234,948.938,"And that takes my attention to one problem that I haven't thought about, that maybe many people don't know",True,False,2,0
+194,0,949.63,954.912,What are the avenues or mechanisms that they can use to protect themselves with the UN,False,False,0,0
+195,0,955.533,961.995,And so that's probably a problem of communication because we speak in a way that nobody understands,False,True,0,1
+196,0,963.556,974.861,But also a problem of educating the population by the presence of the UN on the ground for them to know what are the mechanisms that can be enacted for that,False,False,0,0
+201,0,1000.88,1002.921,Another question,False,False,0,0
+201,1,1000.88,1002.921,"Well, they do their job in many parts",False,False,0,0
+217,0,1072.042,1091.708,"Well, I think that one of the things that the Secretary General has done is to create the office of the youth, precisely to preclude what he's saying about, you know, they have to live with the consequences of decisions that they were not part of",True,False,1,0
+218,0,1092.972,1096.035,But probably that mechanism needs strengthening,False,False,0,0
+219,0,1096.516,1099.38,And I have said in my vision statement that we will,True,True,2,1
+220,0,1099.92,1104.906,That one of the things that we are worried about is about the arms of the young people,False,True,0,1
+221,0,1106.055,1116.62,"in front of a world that is changing a job space that they don't know how it will be, et cetera",False,False,0,0
+222,0,1117.22,1131.947,"So it is a very important initiative that the Secretary General has taken, and I think that is something that should be strengthened and expanded for the future",True,False,1,0
+223,0,1132.427,1133.788,But I think that we have,True,True,1,1
+224,0,1134.438,1151.357,a good seat there on which to work because the envoy of the youth has started to organize the youth around and it has done a very good job in trying to bring the youth really to the UN,False,False,0,0
+225,0,1152.164,1161.089,But the other part of this is how the UN will open up for the young to come to the UN to work with us,False,True,0,1
+226,0,1161.469,1174.515,"And part of the mechanisms that we had before for underrepresented countries, for young people to come and reinvigorate the UN is now pretty small",False,True,0,1
+227,0,1174.775,1177.217,That is the entry point to the UN,False,False,0,0
+228,0,1178.157,1189.781,"The entry point of the UN requires that you do exams for people to enter, young people to enter the UN at the basic level",False,False,0,0
+229,0,1190.241,1191.821,And that is a permanent job,False,False,0,0
+230,0,1192.561,1195.342,So they can build their career in the UN,False,False,0,0
+231,0,1195.742,1204.305,"But because of the cuts and because of the financial restraint, those exams and those mechanisms have been weakened",False,False,0,0
+232,0,1204.845,1205.306,too much,False,False,0,0
+233,0,1205.966,1210.091,And I think that that is one of the things that should also change,True,False,1,0
+234,0,1210.171,1218.641,"Not only the representation at the political level, it's also the presence of staff of the UN to be able to be there",False,False,0,0
+235,0,1219.061,1219.762,And we need that,False,True,0,1
+236,0,1220.843,1224.908,We need the young people to come into the UN again,False,True,0,1
+246,0,1275.612,1282.057,"Well, we have to fix the financial problem of the UN, yes",False,True,0,1
+247,0,1282.675,1284.256,And there are three things there,False,False,0,0
+248,0,1284.596,1291.378,"First, we have to ask and demand as UN a stable panorama of finance",False,True,0,1
+249,0,1291.698,1302.902,No organization can reform and do all what we have to do if there is total uncertainty about the budget and the availability of resources in the organization,False,True,0,1
+250,0,1303.663,1316.491,"Second, you will have to convince those that have the responsibility to finance the UN with assessed contributions, not only voluntary contributions, but assessed contributions that are obligations of the state",False,False,0,0
+251,0,1317.371,1325.896,"Now, if you look at the panorama today, the US and China will represent 44% of the financing of the UN",False,True,0,1
+252,0,1330.423,1333.485,"We have to ask ourselves, is that sustainable",False,True,0,2
+253,0,1333.765,1338.488,"Actually, it's 44% because we put a cap on the maximum",False,True,0,1
+254,0,1339.008,1346.233,"If not, the US will be paying 25% right now, and probably China will go in two years to be also 25%",False,True,0,1
+255,0,1348.808,1351.87,I think that this is a very difficult discussion,True,False,1,0
+256,0,1352.03,1355.912,And let me tell you that most of these experiments have avoided it,True,False,1,0
+258,0,1358.834,1359.514,I think so,True,False,1,0
+259,0,1359.714,1369.86,And I think that we have to put that on the table and find the collision of countries that are willing to open up at least that discussion,True,True,1,1
+260,0,1370.54,1374.523,"But there is a third problem that we have, and it's the financial rules",False,True,0,1
+261,0,1375.503,1389.619,"Because the financial rules that are right now imposed on the UN, they ask us to, and I don't want to enter into all the technicalities of the mechanism",True,True,1,1
+262,0,1389.759,1390.239,You've got 30 seconds,False,False,0,0
+263,0,1390.52,1390.72,Yes,False,False,0,0
+264,0,1394.948,1397.77,This is,False,False,0,0
+264,1,1394.948,1397.77,"You won't solve it tonight, but just one last",False,False,0,0
+265,0,1397.79,1401.592,"I am not saying I'm solving it tonight, but this is a difficult thing to understand",True,False,2,0
+266,0,1402.132,1409.197,We have to give back money that we haven't received according to the financial rules that there are today,False,True,0,2
+267,0,1409.657,1418.983,And so what I am telling the countries is that they have to give us a moratorium at least of some of the financial rules for us to be able,True,True,1,2
+268,0,1419.778,1433.408,to breathe in the next two to three years and solve the problem because we have to create the trust and the political will in the UN again also to solve the financial problem,False,True,0,1
+269,0,1433.728,1436.35,So we need these three things to happen,False,True,0,1
+273,0,1448.639,1449.42,I never collapse,True,False,1,0
+275,0,1451.906,1453.787,I do relax with my family,True,False,2,0
+276,0,1454.408,1455.308,"Well, tell us one thing",False,True,0,1
+277,0,1455.328,1457.569,"My family, I love to be at home",True,False,2,0
+278,0,1457.93,1460.031,"You know, I always on the run",True,False,1,0
+279,0,1460.071,1463.433,I am always in airports and airplanes,True,False,1,0
+280,0,1463.773,1470.317,"When I go home, I just want to be home and talk to my granddaughter every day",True,False,3,0
+281,0,1470.417,1471.418,That helps a lot,False,False,0,0

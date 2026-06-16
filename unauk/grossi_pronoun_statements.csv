@@ -1,0 +1,154 @@
+segment,statement_index,start,end,statement,is_i_statement,is_we_statement,i_pronoun_count,we_pronoun_count
+12,0,56.619,57.179,That is the case,False,False,0,0
+17,0,71.718,72.179,Very good,False,False,0,0
+18,0,72.219,73.78,"Well, thank you, thank you",False,False,0,0
+19,0,73.9,90.936,"It's great to be here, this historic place, and to see that so many are equally concerned and supportive of the United Nations and a multilateral answer to the problems of the day",False,False,0,0
+20,0,92.198,93.979,"This next election,",False,False,0,0
+21,0,95.103,109.409,"of the Secretary General of the United Nations, in my opinion, might arguably be the most consequential one in the history of the organization",True,False,1,0
+22,0,109.549,111.37,And I believe this because,True,False,1,0
+23,0,112.839,127.34,"of the diagnostic on which I think everybody would more or less agree on how we see the world conflict, fragmentation, polarization, the return of interstate war",True,True,1,1
+24,0,129.002,131.023,global crisis of different natures,False,False,0,0
+25,0,131.103,157.218,"But what is especially worrying this time and for this particular selection process is that we see a fundamental, I would say, crisis of confidence in the United Nations, in the possibility and in the ability of the United Nations to be a factor that would be able to influence",True,True,1,1
+26,0,158.001,164.925,precisely world affairs and in particular the pursuit of international peace and security,False,False,0,0
+27,0,166.346,181.456,I said just now interstate war has returned after many years here in Europe but also in Africa and in many other places and one dismaying,True,False,1,0
+28,0,182.901,208.72,"element that we see when we look at each and every crisis, you know, from Africa in Sudan, of course, to Ukraine and Russia to the Middle East or Cambodia and Thailand or India and Pakistan or Azerbaijan and Armenia in its time, is one constatation",False,True,0,2
+29,0,209.761,211.442,The UN is not there,False,False,0,0
+30,0,213.199,223.984,the UN is absent from the managing or the resolution of any of the conflicts I have just mentioned,True,False,1,0
+31,0,225.024,226.025,And it needn't be so,False,False,0,0
+32,0,227.185,227.865,It needn't be so,False,False,0,0
+33,0,229.706,235.949,Some say the United Nations has to play a role in this thing,False,False,0,0
+34,0,237.158,241.5,"Well, it's not going to happen unless we do things differently",False,True,0,1
+35,0,241.9,248.303,It's not going to happen because we believe in that or there's a principle about that,False,True,0,1
+36,0,248.843,265.91,"It is only going to happen when there is a conviction in leaders in belligerent nations that the participation of the United Nations, and in particular the Secretary General, is going to",False,False,0,0
+37,0,267.402,272.343,facilitate a better outcome than what they are currently having,False,False,0,0
+38,0,273.744,279.806,And this conviction grew in me because of my own experience,True,False,2,0
+39,0,280.686,287.828,It's not an idea that I had or some words that I tried to put nicely on a piece of paper in the vision,True,False,2,0
+40,0,288.548,294.05,"This is what I have been doing in Russia and Ukraine, under fire,",True,False,1,0
+41,0,296.055,306.78,"a front line, a separation of the power plant between China and Japan, Iran and Israel and the United States",False,False,0,0
+42,0,307.34,322.767,"In many places, on many occasions, I have seen firsthand and through my own experience that it is possible to play a role, and not only to play a role for the sake of playing a role,",True,False,2,0
+43,0,323.547,343.56,"is that you can and the multilateral platform, in this case the IEA, but it embodies in a certain sense the logic and the spirit of the United Nations, we can see that this or through this intervention we can prevent a nuclear accident",False,True,0,2
+44,0,344.02,359.865,we can provide platforms for a solution on the ongoing crisis about Iran or before that Syria or before that Iraq and all of these situations that we've had,False,True,0,2
+45,0,360.305,375.888,So this idea that there is a centrality of the peace and security mission is not because there is a dereliction or any form of marginalization of the other pillars of the UN mission,False,False,0,0
+46,0,376.188,380.189,It is because we have to look at what is happening in the world right now,False,True,0,1
+47,0,380.849,385.91,"And when war reigns, there is no human right to be defended",False,False,0,0
+48,0,386.69,392.735,"When war reigns, there is no developmental mission that can remotely be successful",False,False,0,0
+49,0,393.435,395.417,Thank you very much,False,False,0,0
+50,0,395.877,397.218,"That is very, very important",False,False,0,0
+51,0,398.079,408.626,"Of course, when it comes to development, this requires a profound soul search when it comes to the work of the United Nations",False,False,0,0
+52,0,409.207,410.228,"By the metrics,",False,False,0,0
+53,0,411.395,416.6,"that the UN applied to itself, which would be what",False,False,0,0
+54,0,416.64,418.662,Sustainable development goals,False,False,0,0
+55,0,418.902,423.367,"When we look at that, and mind you, 2030 is around the corner",False,True,0,1
+59,0,436.557,436.757,Yeah,False,False,0,0
+64,0,455.587,459.189,"When we, I think this has to be taken very seriously",True,True,1,1
+66,0,462.251,463.952,The issue of man or woman,False,False,0,0
+67,0,464.802,466.803,the issue of a man or a woman,False,False,0,0
+68,0,467.944,477.85,"When we are selecting Secretary General, we are selecting a person, the best person for the job, the best person for the job",False,True,0,2
+69,0,481.813,489.718,"And to be the best person, the best person to incarnate this crucial function,",False,False,0,0
+70,0,491.063,497.634,"There is track record, there is merit, there is the capacity to federate, there is the capacity to generate consensus",False,False,0,0
+71,0,498.612,501.434,"it can be a man, it can be a woman",False,False,0,0
+72,0,501.894,517.623,"And I say this from the moral comfort of being myself a gender champion, from having taken a technical organization that when I took it over had 28% of women professionals and today it has 53% in the space of five years",True,False,3,0
+73,0,517.923,520.885,So I don't need anybody to tell me about,True,False,2,0
+74,0,521.585,536.719,this so we need to select the best and we have seen tonight we are having the privilege to listen to very distinguished women candidates so the sacrosanct principle here is the equality of possibilities and opportunities between men and women as simple as that,False,True,0,3
+78,0,562.596,565.878,"Well, I think that I was trying to address this just now",True,False,2,0
+79,0,567.379,581.408,"I have seen in this job, which is still ongoing, we see what is happening with Iran and the negotiations, that it is possible to be an impartial but active and influential",True,True,1,1
+80,0,581.988,582.308,player,False,False,0,0
+81,0,582.749,593.24,It has been possible for me to talk to Vladimir Putin several times and then to go to Volodymyr Zelensky several times and then continue and to iterate until I find a solution,True,False,2,0
+82,0,593.68,595.222,So it's not a theory for me,True,False,1,0
+83,0,595.522,596.363,It's my job,True,False,1,0
+84,0,596.763,597.484,It's what I do,True,False,1,0
+85,0,598.425,604.952,Only thing that the UN would allow us to be operative in a wider platform,False,True,0,1
+96,0,649.533,660.517,I think in those principles there is so much common sense that it would be hard to imagine that any candidate or anybody would have a problem with those,True,False,1,0
+97,0,661.097,663.059,"Subscribing formally, I can't",True,False,1,0
+98,0,663.179,675.952,"I am an elected, I remember, I am an elected leader of an organization and so the only principles I can subscribe to are those that are produced by my policy-making organs",True,False,5,0
+99,0,676.212,681.658,"But of course, those principles are sane, are full of, I would say, common sense",True,False,1,0
+100,0,682.038,683.9,So who can have a problem with that,False,False,0,0
+108,0,723.186,728.533,"There is one specific in the Charter, which is Article 99, when the Secretary-General feels there is one issue",False,False,0,0
+109,0,729.073,743.134,"And then there is the array of issues that he mentions in his question, which come under Chapter 6 of the Charter, when you have all the means of diplomatic expression that a secretary-general can bring to the job",False,False,0,0
+110,0,743.995,752.297,"doing all these things in consulting, in talking, in proposing, which is what we have been doing at the IAEA",False,True,0,1
+111,0,752.717,761.96,So I believe in a Secretary General there is constantly engaging in this kind of activity as opposed to,True,False,1,0
+112,0,762.82,769.706,Article 99 as seeing as something that you only touch or you press the button and then something magic is going to happen,False,False,0,0
+113,0,769.746,771.528,It has been invoked and nothing happened,False,False,0,0
+114,0,771.888,786.821,"So I believe in a constant, of course, that is a competence and the drafters of the charter were wise in indicating that the secretary general is not just a chief administrative officer",True,False,1,0
+115,0,787.242,788.603,It's much more than that,False,False,0,0
+117,0,799.023,799.804,"Well, it depends",False,False,0,0
+118,0,800.605,800.965,It depends,False,False,0,0
+119,0,801.005,802.286,"Since we are in a church,",False,True,0,1
+120,0,803.146,805.988,"You know, remember the gospel, there is time to talk",False,False,0,0
+121,0,806.548,808.189,There is a time not to do it,False,False,0,0
+122,0,808.509,809.69,There is a time to observe,False,False,0,0
+123,0,809.73,812.131,"There is a time to laugh, and there is a time to cry",False,False,0,0
+125,0,813.732,814.392,Absolutely,False,False,0,0
+126,0,814.653,820.136,"So I think, of course, the secretary general is a voice, much more than a voice",True,False,1,0
+127,0,820.516,826.82,"And on occasion, he or she may need to express principles",False,False,0,0
+128,0,827.26,832.383,"But for me, principles must be expressed in a pragmatic way",True,False,1,0
+129,0,832.923,842.629,Because the Secretary General is not a force which is there as a moral compass of the world or a judge that is attributing guilty or innocence,False,False,0,0
+130,0,843.13,847.753,He or she must be an active actor in international relations,False,False,0,0
+131,0,847.853,851.115,And this is what we so desperately need at this moment,False,True,0,1
+135,0,872.417,872.997,"Yeah, indeed",False,False,0,0
+136,0,873.017,885.964,"Of course, the UN is an intergovernmental organization and member states are the ones taking decisions, and that is the normal setup of the UN",False,False,0,0
+137,0,885.984,891.487,"At the same time, we live in a world where the expression, societal expression, has a role",False,True,0,1
+138,0,891.887,893.648,And it has been having that,False,False,0,0
+140,0,896.356,897.197,It is happening,False,False,0,0
+141,0,897.317,897.597,It is,False,False,0,0
+142,0,898.037,899.458,I believe it is happening,True,False,1,0
+143,0,899.638,900.859,It should,False,False,0,0
+144,0,901.059,907.824,"Well, if you mean by plan having an office or creating more bureaucracy for that, no, because it's not needed",False,False,0,0
+145,0,907.964,909.605,"Of course, you talk to everybody",False,False,0,0
+146,0,909.625,919.732,"You have to be at the end of the day, we are accountable to the people out there who, by the way, have a very poor opinion of the UN, if we care to ask",False,True,0,2
+155,0,997.308,998.468,Thank you very much,False,False,0,0
+156,0,998.588,1005.771,"Of course, those words have resonated ever since 1945, we the peoples",False,True,0,1
+157,0,1006.251,1013.533,"But as I said before, I am a bit skeptical about creating offices, creating representatives",True,False,2,0
+158,0,1014.153,1020.198,"In fact, one of my ideas is to reduce the number of special representatives and special offices",True,False,1,0
+159,0,1020.498,1027.423,I think the Secretary General has a political responsibility to do some of the things that you are saying and being accountable for those,True,False,1,0
+161,0,1034.928,1036.73,It's an evidence,False,False,0,0
+162,0,1037.535,1038.375,It's an evidence,False,False,0,0
+163,0,1038.935,1039.656,It's an evidence,False,False,0,0
+164,0,1039.956,1055.419,But this is why I say that it is in the area of international peace and security there is a moral and statutory obligation for the Secretary General to assume these roles,True,False,1,0
+165,0,1055.479,1061.061,This proliferation of figures has become too much,False,False,0,0
+166,0,1062.582,1063.803,and it has to be stopped,False,False,0,0
+167,0,1064.463,1064.804,Thank you,False,False,0,0
+169,0,1069.228,1071.871,"Absolutely, she will be more than welcome",False,False,0,0
+174,0,1080.219,1080.579,Not there,False,False,0,0
+179,0,1102.42,1109.983,"Well, one of the biggest challenges we have collectively, I would say, and one which is",True,True,1,1
+180,0,1110.783,1117.646,"I would say closely intertwined with the discussions on energy, on energy security",True,False,1,0
+181,0,1117.686,1122.448,These are agendas that have come combined in the past few years,False,False,0,0
+182,0,1122.588,1135.994,"I think we have reached important milestones in terms of climate, in terms of what we need to do, and at the same time we see that we are far from that",True,True,1,4
+183,0,1136.295,1136.755,A little bit,False,False,0,0
+184,0,1138.312,1143.514,"What I said in development, we see that there is a divergence",True,True,1,1
+185,0,1143.634,1155.88,"Some things have been done, the International Panel on Climate Change, and these are things that we follow very closely from the IAEA, because we are the only organization in the system that has energy in the title",False,True,0,2
+186,0,1156.7,1160.322,"So we are following that, but we see that there is a discrepancy",False,True,0,2
+187,0,1160.922,1167.928,between certain goals that are diplomatically agreed and the possibility to bring them forward,False,False,0,0
+188,0,1168.188,1176.674,So I think there has to be a more synchronic work in terms of energy and the climate diplomacy,True,False,1,0
+189,0,1176.995,1189.584,"It is also very, very important, I think, after 30 conferences, and I think we have endured a few of those, a conference of the parties, these COPs have become an unmanageable",True,True,2,1
+190,0,1191.346,1205.76,"I don't know, I suppose that some of you, maybe several, have been attending those and now it has become a yearly manifestation with thousands of organizations, commercial sites, so I think there's a need to refocus",True,False,3,0
+191,0,1206.961,1228.476,"because in particular, vulnerable countries, small island development states, et cetera, they do have an existential stake on issues related to climate, but also other countries have an economic stake on what they need for their economic development in terms of energy",False,False,0,0
+192,0,1228.496,1233.14,"So trying to bring together those agendas, for me, it will be very, very important",True,False,1,0
+199,0,1276.789,1277.47,"Well, thank you",False,False,0,0
+200,0,1277.67,1283.076,"An important issue, and we've been having important conversations with philanthropists today",False,True,0,1
+201,0,1283.116,1284.478,This is very important,False,False,0,0
+202,0,1284.758,1287.501,"For one thing, I think we need to",True,True,1,1
+203,0,1289.043,1296.049,make it so that we re-engage with the membership and that assessed contributions are paid,False,True,0,1
+204,0,1297.11,1303.094,"Without that, it will be very difficult for us, for the organization, to carry out its mission",False,True,0,1
+205,0,1303.575,1309.8,"As the Secretary General has rightly described, we are facing a very, very serious financial crisis",False,True,0,1
+206,0,1310.62,1317.983,"at the moment, which compromises the ability of the UN to work or to work efficiently",False,False,0,0
+207,0,1318.543,1331.628,"For that to be corrected, I think there is this trust deficit that I was pointing out in my introductory words, in the sense that there has to be a reconnection",True,False,3,0
+208,0,1332.928,1351.554,"between the Secretary General and the major contributing countries to make sure that we can have again, because this has been broken, we have again a constructive relationship when countries are willingly and convinced of the support they're giving us",False,True,0,3
+209,0,1351.614,1360.137,"In terms of donors, when you were referring to that, you were referring to private sector or non-traditional donors, if I may ask you",True,False,1,0
+210,0,1361.684,1362.284,In general,False,False,0,0
+211,0,1362.625,1367.247,"Yeah, in general",False,False,0,0
+212,0,1367.327,1367.887,Yeah,False,False,0,0
+213,0,1367.927,1368.108,Yeah,False,False,0,0
+214,0,1368.348,1381.495,"Well, I addressed the state side of the equation, which has to do with this deficit in terms of trust, confidence that needs to be repaired",True,False,1,0
+215,0,1381.915,1388.539,"In terms of others, I think the UN, as you know, has",True,False,1,0
+216,0,1389.459,1406.245,"in place important guardrails or norms to ensure that out of voluntary contributions coming from the private sector, no undue influence comes",False,False,0,0
+217,0,1406.605,1412.047,"But I think it is very important to be able to, I would say, engage even more",True,False,2,0
+218,0,1412.667,1419.289,And I was referring to this conversation I was having with philanthropists like the other candidates today,True,False,2,0
+219,0,1420.909,1421.93,Look at this example,False,False,0,0
+220,0,1422.17,1430.332,"In today's world, the Gates Foundation has become the second largest contributor to the World Health Organization",False,False,0,0
+221,0,1432.904,1444.569,"Setting aside body judgments, that in itself tells you that important tectonic plates are moving and we have to be watching that as well to be able to perform better",False,True,0,1
+224,0,1462.627,1465.008,"Well, I would say it's very difficult these days",True,False,1,0
+225,0,1465.389,1479.857,"As you know, we discuss sometimes out of this framework of the issues that I am dealing with, the crisis in Iran, and we are in dramatic hours on this or what is happening in Ukraine",True,True,1,2
+227,0,1481.538,1483.479,How do I react,True,False,1,0
+228,0,1483.72,1487.682,"You know, sports, and of course, you know, I come from Argentina, football",True,False,1,0
+232,0,1491.505,1492.386,Thank you very much,False,False,0,0
