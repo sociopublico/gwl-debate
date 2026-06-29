@@ -1,0 +1,6 @@
+SPEAKER_03 Bachelet
+SPEAKER_04 Espinosa
+SPEAKER_14 Grossi
+SPEAKER_05 Grynspan
+SPEAKER_08 SPEAKER_11 Sal
+SPEAKER_02 Rodrigues
